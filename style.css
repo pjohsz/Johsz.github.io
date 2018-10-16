@@ -1,0 +1,45 @@
+body {
+	background-color: gray;
+}
+
+h1 {
+	margin-bottom: 15px;
+	font-size: 60px;
+	font-family: Arial;
+	color: white;
+	text-align: center;
+	background-color: black;
+}
+h2 {
+	margin-bottom: 15px;
+	font-size: 50px;
+	font-family: Arial;
+	color: green;
+	text-align: center;
+	background-color: lightgrey;
+}
+
+h3 {
+	margin-bottom: 15px;
+	font-size: 25px;
+	font-family: Arial;
+	color: blue;
+	text-align: left;
+}
+
+h4 {
+	margin-bottom: 15px;
+	font-size: 30px;
+	font-family: Arial;
+	color: white;
+	text-align: left;
+	background-color: black;
+}
+
+p {
+	font-family: Arial;
+	font-size: 20px;
+}
+.custom{
+	cursor:url(https://orig00.deviantart.net/4b7c/f/2013/181/8/2/ss_goddess_sword_cursors_by_blueamnesiac-d6be3ta.png), auto;
+}
